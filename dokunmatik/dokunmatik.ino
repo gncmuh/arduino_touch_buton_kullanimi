@@ -1,4 +1,4 @@
-int pin[]={6};
+int pin[1]={6};
 
 struct sensor_deger {
 
